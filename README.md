@@ -1,0 +1,1 @@
+# KidozSDK-Swift-Package
