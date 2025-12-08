@@ -1,0 +1,19 @@
+# Xcode
+.DS_Store
+*.xcodeproj
+xcuserdata/
+DerivedData/
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/
+
+# Dependencies (if using CocoaPods alongside SPM, though typically not in an SPM-only repo)
+Pods/
+
+# Other common ignored files
+*.o
+*.d
+*.swp
+*~.nib
+*.xcassets/
